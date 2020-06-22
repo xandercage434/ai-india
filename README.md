@@ -1,1 +1,1 @@
-# ai-india
+# AI-India
